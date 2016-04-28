@@ -1,0 +1,38 @@
+﻿生成启动时间为 2016/4/28 21:44:42。
+     1>项目“D:\workspace\GitManagedProject\PandaGo\PandaGo\PandaGo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program File\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtCore /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtGui /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtNetwork /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtSql /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtOpenGL /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtSerialPort /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtUiTools /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtWebSockets /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtWidgets /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtWinExtras /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtXml /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_SQL_LIB /D QT_OPENGL_LIB /D QT_SERIALPORT_LIB /D QT_UITOOLS_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /D QT_WINEXTRAS_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /wd4819 /errorReport:prompt Src\modulemaprender.cpp
+         modulemaprender.cpp
+       Link:
+         C:\Program File\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\GitManagedProject\PandaGo\x64\Debug\\PandaGo.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.6.0\5.6\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Sqld.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5SerialPortd.lib Qt5UiToolsd.lib Qt5WebSocketsd.lib Qt5Widgetsd.lib Qt5WinExtrasd.lib Qt5Xmld.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\workspace\GitManagedProject\PandaGo\x64\Debug\PandaGo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workspace\GitManagedProject\PandaGo\x64\Debug\PandaGo.lib" /MACHINE:X64 x64\Debug\sqlite3.obj
+         x64\Debug\moc_moduledataplatform.obj
+         x64\Debug\moc_modulemaprender.obj
+         x64\Debug\moc_pandago.obj
+         x64\Debug\main.obj
+         x64\Debug\fmt.obj
+         x64\Debug\gis.obj
+         x64\Debug\kernel.obj
+         x64\Debug\localplan.obj
+         x64\Debug\map.obj
+         x64\Debug\morphin.obj
+         x64\Debug\parameter.obj
+         x64\Debug\tinyxml2.obj
+         x64\Debug\utils.obj
+         x64\Debug\basicfunction.obj
+         x64\Debug\Cmorphin.obj
+         x64\Debug\crossing.obj
+         x64\Debug\reverse.obj
+         x64\Debug\take_over.obj
+         x64\Debug\trace_road.obj
+         x64\Debug\TurnRound.obj
+         x64\Debug\infrastructure.obj
+         x64\Debug\moduledataplatform.obj
+         x64\Debug\modulemaprender.obj
+         x64\Debug\moduleplsimulator.obj
+         x64\Debug\pandago.obj
+         PandaGo.vcxproj -> D:\workspace\GitManagedProject\PandaGo\x64\Debug\PandaGo.exe
+     1>已完成生成项目“D:\workspace\GitManagedProject\PandaGo\PandaGo\PandaGo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.65
